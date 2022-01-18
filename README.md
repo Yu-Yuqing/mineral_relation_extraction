@@ -1,8 +1,7 @@
 # relation-extraction
 中文关系抽取
 
-### 数据集来源：
-https://github.com/buppt/ChineseNRE/raw/master/data/people-relation/train.txt
+
 
 ### bert_model
 从 https://huggingface.co/models 下载bert-base-chinese模型，解压在pretrained_models下
